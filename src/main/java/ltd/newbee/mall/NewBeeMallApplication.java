@@ -17,6 +17,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @qq交流群 796794009
  * @email 2449207463@qq.com
  * @link https://github.com/newbee-ltd
+ * 2
  */
 @MapperScan("ltd.newbee.mall.dao")
 @SpringBootApplication
