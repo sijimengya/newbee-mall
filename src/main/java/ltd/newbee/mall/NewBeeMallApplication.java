@@ -24,6 +24,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NewBeeMallApplication {
     public static void main(String[] args) {
         SpringApplication.run(NewBeeMallApplication.class, args);
-        System.out.println(4);
+        System.out.println(5);
     }
 }
